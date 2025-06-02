@@ -1,6 +1,6 @@
 name: styles_dap_sarj
 description: "DAP Şarj projesi için ortak stil tanımlamalarını içeren Flutter paketi."
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/C4BH/styles_dap_sarj
 
 environment:
